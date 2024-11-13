@@ -9,8 +9,6 @@ src="https://github-readme-stats.vercel.app/api?username=swim233&count_private=t
 
 [![Lans](https://skillicons.dev/icons?i=go&perline=14&theme=light)](https://skillicons.dev)
 
-<details>
-<summary style="cursor: pointer">More details...</summary>
 
 ### Support tools
 
